@@ -9,3 +9,7 @@ Q
 !contracts/service-scheduling.clar,b/8/b810bd062cc45f34bfb728d055aee0dbffd18598
 P
  tests/service-scheduling.test.ts,e/9/e9d7c34f6cd9e0185e55cfe8ea61bfc5cdf9c88f
+V
+&contracts/technician-verification.clar,7/a/7aff60528191804ce70c4e7e882ed6cbceb10d52
+U
+%tests/technician-verification.test.ts,e/c/ec188f13b38c3c8a982c9233e3a32b3c0534d19d
